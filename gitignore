@@ -1,0 +1,8 @@
+# dataset: download from UCI instead of committing it (~45 MB)
+*.xlsx
+# generated outputs
+reconciliation_report.csv
+# notebook / python clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
