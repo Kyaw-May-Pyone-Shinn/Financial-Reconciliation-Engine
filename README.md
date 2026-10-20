@@ -4,8 +4,7 @@ Matching transactions across two ledgers when the invoice references **don't lin
 
 The engine uses **probabilistic record linkage** to link the records, labels every record with a break type a finance team can act on, and measures its own accuracy against known ground truth.
 
-![Confusion matrix](Financial-Reconciliation-Engine/images
-/Confusion matrix.png)
+![Confusion matrix](/images/Confusion matrix.png)
 
 ---
 
